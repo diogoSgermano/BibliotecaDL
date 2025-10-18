@@ -1,0 +1,16 @@
+.bg-navbar {
+    background-color: #434343; /* ou qualquer cor que você quiser */
+    padding: 30px !important ;
+}
+.logo{
+    max-width: 100px;
+}
+.navbar-brand{
+    font-size: 30px;
+}
+.navbar-collapse{
+    font-size: 20px;
+    color: white;
+    display: flex;
+    justify-content: end;
+}
